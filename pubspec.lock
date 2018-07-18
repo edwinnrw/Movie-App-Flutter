@@ -234,7 +234,7 @@ packages:
       name: progress_hud
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.2"
+    version: "1.0.0"
   pub_semver:
     dependency: transitive
     description:
